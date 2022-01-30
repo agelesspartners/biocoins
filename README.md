@@ -31,6 +31,10 @@ A web based platform for researchers, patients, and investors to collectively fu
 
 View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
 
+## Project Ideation
+
+[Prsentation](https://bit.ly/3IPooyd)
+
 ## Screenshots
 
 ![dash3](https://user-images.githubusercontent.com/19821445/151686777-5359e879-1b82-4848-ab8d-a86963d7139e.JPG)
