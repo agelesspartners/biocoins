@@ -15,7 +15,7 @@ function Transactions() {
     <Card className="h-100">
       <SuiBox display="flex" justifyContent="space-between" alignItems="center" pt={3} px={2}>
         <SuiTypography variant="h6" fontWeight="medium" textTransform="capitalize">
-          Your BioCoins Benefits Ledger
+          Your BioCoins Services Ledger
         </SuiTypography>
         <SuiBox display="flex" alignItems="flex-start">
           <SuiBox color="text" mr={0.5} lineHeight={0}>

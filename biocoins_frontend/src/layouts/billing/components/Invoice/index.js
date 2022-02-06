@@ -8,7 +8,7 @@ import Icon from "@mui/material/Icon";
 import SuiBox from "components/SuiBox";
 import SuiTypography from "components/SuiTypography";
 
-function Invoice({ date, id, price, noGutter }) {
+function Invoice({ date, id, token, noGutter }) {
   return (
     <SuiBox
       component="li"
@@ -29,7 +29,7 @@ function Invoice({ date, id, price, noGutter }) {
       </SuiBox>
       <SuiBox display="flex" alignItems="center">
         <SuiTypography variant="button" fontWeight="regular" textColor="text">
-          {price}
+          {token}
         </SuiTypography>
         <SuiBox
           display="flex"
@@ -57,7 +57,7 @@ Invoice.defaultProps = {
 Invoice.propTypes = {
   date: PropTypes.string.isRequired,
   id: PropTypes.string.isRequired,
-  price: PropTypes.string.isRequired,
+  token: PropTypes.string.isRequired,
   noGutter: PropTypes.bool,
 };
 
