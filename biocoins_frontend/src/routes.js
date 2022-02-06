@@ -28,16 +28,6 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "The Team",
-    key: "tables",
-    route: "/tables",
-    icon: <Office size="12px" />,
-    component: Tables,
-    noCollapse: true,
-    protected: true,
-  },
-  {
-    type: "collapse",
     name: "Wallet",
     key: "billing",
     route: "/billing",
