@@ -57,7 +57,7 @@ View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
 
 2. Investors are able to collectively fund clinical trials
 
-3. The platform allows researchers to tokenize incentives (early treatment access, IP royalties ,data access, and more) for their planned clinical trial,
+3. The platform allows researchers to tokenize incentives (early treatment access, IP royalties, data access, and more) for their planned clinical trial.
 
 ## How to use the app
 

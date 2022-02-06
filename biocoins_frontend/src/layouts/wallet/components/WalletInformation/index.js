@@ -13,7 +13,7 @@ function WalletInformation() {
     <Card id="delete-account">
       <SuiBox pt={3} px={2}>
         <SuiTypography variant="h6" fontWeight="medium">
-          Your Clinical Trial Wallet
+          Tokenized Incentives
         </SuiTypography>
       </SuiBox>
       <SuiBox pt={1} pb={2} px={2}>
@@ -34,7 +34,7 @@ function WalletInformation() {
             name="Anti-Ageing Drug Discovery and Repurposing"
             company="Elizabeth Blackwell"
             email="elizabeth@nortoncollege.us"
-            vat="Receive full reimbursement on any amount paid on the occurrence of the specified illness."
+            vat="Receive full reimbursement on any amount paid on the occurrence of a specified illness."
             noGutter
           />
         </SuiBox>
