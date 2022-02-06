@@ -38,7 +38,7 @@ application backend
 $ cd biocoins_ backend
 ```
 
-**Step #2** - Install dependencies via NPM or Yarn
+**Step #2** - Install dependencies via npm or yarn
 
 ```bash
 $ npm i

@@ -31,7 +31,7 @@ To test the application run the following commands on your terminal:
 $ cd biocoins_frontend
 ```
 
-- Install dependencies via NPM or yarn: _npm i_ OR _yarn_
+- Install dependencies via npm or yarn: _npm i_ OR _yarn_
 
 - Website: To start it, run _npm start_ OR _yarn start_
 
