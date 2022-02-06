@@ -79,7 +79,7 @@ function SignIn() {
 
   return (
     <CoverLayout
-      title="BioCoins Longevity Therapeutics Dashboard"
+      title="BioCoins - Bringing Clinical Trials To Life"
       description={`${user && user.token ? "" : "Enter your email and password to sign in"}`}
       image={curved9}
     >
