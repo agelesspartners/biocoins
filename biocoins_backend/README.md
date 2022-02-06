@@ -32,11 +32,10 @@ application backend
 
 ## How to run backend server
 
-**Step #1** - Clone the project
+**Step #1** - Locate the backend folder
 
 ```bash
-$ git clone https://github.com/agelesspartners/biocoins/tree/main/biocoins_backend
-$ cd api-server-nodejs
+$ cd biocoins_ backend
 ```
 
 **Step #2** - Install dependencies via NPM or Yarn

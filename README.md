@@ -61,6 +61,14 @@ View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
 
 ## How to use the app
 
+**Step #1** - Clone the project
+
+```bash
+$ git clone https://github.com/agelesspartners/biocoins.git
+```
+
+**Step #2**
+
 ```
 see biocoins_backend & biocoins_frontend
 ```

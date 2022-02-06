@@ -37,7 +37,7 @@ git clone https://github.com/agelesspartners/biocoins.git
 
 ```
 git clone https://github.com/agelesspartners/biocoins.git
-cd biocoins
+cd biocoins_frontend
 ```
 
 **Start the app in docker:**
