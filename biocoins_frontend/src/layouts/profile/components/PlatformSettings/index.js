@@ -66,7 +66,7 @@ function PlatformSettings() {
           </SuiBox>
           <SuiBox width="80%" ml={2}>
             <SuiTypography variant="button" fontWeight="regular" textColor="text">
-              Monthly BioCoins trial updates
+              Monthly clinical trial updates
             </SuiTypography>
           </SuiBox>
         </SuiBox>

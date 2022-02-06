@@ -53,7 +53,7 @@ View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
 
 ## Features
 
-1. User athentication (sign in/ sign out / register)
+1. User athentication: ability to (sign in/ sign out & register)
 
 2. Investors are able to collectively fund clinical trials
 

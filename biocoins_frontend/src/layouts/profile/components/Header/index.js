@@ -74,10 +74,10 @@ function Header() {
           <Grid item>
             <SuiBox height="100%" mt={0.5} lineHeight={1}>
               <SuiTypography variant="h5" fontWeight="medium">
-                Alex Thompson
+                Jupyter Thompson
               </SuiTypography>
               <SuiTypography variant="button" textColor="text" fontWeight="medium">
-                CEO / Co-Founder
+                CEO at LifeTym Co.
               </SuiTypography>
             </SuiBox>
           </Grid>

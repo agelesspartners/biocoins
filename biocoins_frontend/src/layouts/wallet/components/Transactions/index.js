@@ -7,8 +7,8 @@ import Icon from "@mui/material/Icon";
 import SuiBox from "components/SuiBox";
 import SuiTypography from "components/SuiTypography";
 
-// Billing page components
-import Transaction from "layouts/billing/components/Transaction";
+// Wallet page components
+import Transaction from "layouts/wallet/components/Transaction";
 
 function Transactions() {
   return (

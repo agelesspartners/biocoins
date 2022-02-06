@@ -6,8 +6,8 @@ import SuiBox from "components/SuiBox";
 import SuiTypography from "components/SuiTypography";
 import SuiButton from "components/SuiButton";
 
-// Billing page components
-import Invoice from "layouts/billing/components/Invoice";
+// Wallet page components
+import Invoice from "layouts/wallet/components/Invoice";
 
 function Invoices() {
   return (

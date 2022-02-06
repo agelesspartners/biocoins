@@ -1,6 +1,6 @@
 // BioCoins Dashboard React layouts
 import Dashboard from "layouts/dashboard";
-import Billing from "layouts/billing";
+import Wallet from "layouts/wallet";
 import Profile from "layouts/profile";
 import SignIn from "layouts/authentication/sign-in";
 import SignUp from "layouts/authentication/sign-up";
@@ -27,10 +27,10 @@ const routes = [
   {
     type: "collapse",
     name: "Wallet",
-    key: "billing",
-    route: "/billing",
+    key: "wallet",
+    route: "/wallet",
     icon: <CreditCard size="12px" />,
-    component: Billing,
+    component: Wallet,
     noCollapse: true,
     protected: true,
   },

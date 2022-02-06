@@ -5,10 +5,10 @@ import Card from "@mui/material/Card";
 import SuiBox from "components/SuiBox";
 import SuiTypography from "components/SuiTypography";
 
-// Billing page components
-import Bill from "layouts/billing/components/Bill";
+// Wallet page components
+import Bill from "layouts/wallet/components/Bill";
 
-function BillingInformation() {
+function WalletInformation() {
   return (
     <Card id="delete-account">
       <SuiBox pt={3} px={2}>
@@ -43,4 +43,4 @@ function BillingInformation() {
   );
 }
 
-export default BillingInformation;
+export default WalletInformation;

@@ -1,24 +1,24 @@
 // Designed by Sandra Ashipala for 30-01-2022 LongHack
 import Grid from "@mui/material/Grid";
 
-// BioCoins Dashboard React components
+// BioCoins Dashboard
 import SuiBox from "components/SuiBox";
 
 // BioCoins Dashboard React components
 import MasterCard from "examples/Cards/MasterCard";
 import DefaultInfoCard from "examples/Cards/InfoCards/DefaultInfoCard";
 
-// BioCoins Dashboard React example components
+// BioCoins Dashboard
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 
-// Billing page components
-import PaymentMethod from "layouts/billing/components/PaymentMethod";
-import Invoices from "layouts/billing/components/Invoices";
-import BillingInformation from "layouts/billing/components/BillingInformation";
-import Transactions from "layouts/billing/components/Transactions";
+// Wallet page components
+import PaymentMethod from "layouts/wallet/components/PaymentMethod";
+import Invoices from "layouts/wallet/components/Invoices";
+import WalletInformation from "layouts/wallet/components/WalletInformation";
+import Transactions from "layouts/wallet/components/Transactions";
 
-function Billing() {
+function Wallet() {
   return (
     <DashboardLayout>
       <DashboardNavbar />
@@ -51,7 +51,7 @@ function Billing() {
         <SuiBox mb={3}>
           <Grid container spacing={3}>
             <Grid item xs={12} md={7}>
-              <BillingInformation />
+              <WalletInformation />
             </Grid>
             <Grid item xs={12} md={5}>
               <Transactions />
@@ -63,4 +63,4 @@ function Billing() {
   );
 }
 
-export default Billing;
+export default Wallet;
