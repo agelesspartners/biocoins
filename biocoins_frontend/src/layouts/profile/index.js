@@ -78,12 +78,12 @@ function Overview() {
           <SuiBox pt={2} px={2}>
             <SuiBox mb={0.5}>
               <SuiTypography variant="h6" fontWeight="medium">
-                Projects
+                Research Projects
               </SuiTypography>
             </SuiBox>
             <SuiBox mb={1}>
               <SuiTypography variant="button" fontWeight="regular" textColor="text">
-                Therapeutics Research Projects
+                Latest Clinical Trial Research Projects
               </SuiTypography>
             </SuiBox>
           </SuiBox>

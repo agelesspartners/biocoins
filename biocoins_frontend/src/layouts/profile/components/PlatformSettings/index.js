@@ -9,9 +9,7 @@ import SuiBox from "components/SuiBox";
 import SuiTypography from "components/SuiTypography";
 
 function PlatformSettings() {
-  const [followsMe, setFollowsMe] = useState(true);
   const [answersPost, setAnswersPost] = useState(false);
-  const [mentionsMe, setMentionsMe] = useState(true);
   const [newLaunches, setNewLaunches] = useState(false);
   const [productUpdate, setProductUpdate] = useState(true);
   const [newsletter, setNewsletter] = useState(true);
@@ -34,31 +32,11 @@ function PlatformSettings() {
         </SuiTypography>
         <SuiBox display="flex" py={1} mb={0.25}>
           <SuiBox mt={0.25}>
-            <Switch checked={followsMe} onChange={() => setFollowsMe(!followsMe)} />
-          </SuiBox>
-          <SuiBox width="80%" ml={2}>
-            <SuiTypography variant="button" fontWeight="regular" textColor="text">
-              Email me when someone follows me
-            </SuiTypography>
-          </SuiBox>
-        </SuiBox>
-        <SuiBox display="flex" py={1} mb={0.25}>
-          <SuiBox mt={0.25}>
             <Switch checked={answersPost} onChange={() => setAnswersPost(!answersPost)} />
           </SuiBox>
           <SuiBox width="80%" ml={2}>
             <SuiTypography variant="button" fontWeight="regular" textColor="text">
-              Email me when someone answers on my post
-            </SuiTypography>
-          </SuiBox>
-        </SuiBox>
-        <SuiBox display="flex" py={1} mb={0.25}>
-          <SuiBox mt={0.25}>
-            <Switch checked={mentionsMe} onChange={() => setMentionsMe(!mentionsMe)} />
-          </SuiBox>
-          <SuiBox width="80%" ml={2}>
-            <SuiTypography variant="button" fontWeight="regular" textColor="text">
-              Email me when someone mentions me
+              Email me when a trial I&apos;m subscribed to reaches its funding goal
             </SuiTypography>
           </SuiBox>
         </SuiBox>
@@ -78,7 +56,7 @@ function PlatformSettings() {
           </SuiBox>
           <SuiBox width="80%" ml={2}>
             <SuiTypography variant="button" fontWeight="regular" textColor="text">
-              New launches and projects
+              New clinical trial launches and projects
             </SuiTypography>
           </SuiBox>
         </SuiBox>
@@ -88,7 +66,7 @@ function PlatformSettings() {
           </SuiBox>
           <SuiBox width="80%" ml={2}>
             <SuiTypography variant="button" fontWeight="regular" textColor="text">
-              Monthly BioCoins trials updates
+              Monthly BioCoins trial updates
             </SuiTypography>
           </SuiBox>
         </SuiBox>
