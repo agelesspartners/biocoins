@@ -25,8 +25,10 @@ To test the application run the following commands on your terminal:
 
 **Running the application locally:**
 
-```
-git clone https://github.com/agelesspartners/biocoins.git
+**Step #1** - Locate the frontend folder
+
+```bash
+$ cd biocoins_frontend
 ```
 
 - Install dependencies via NPM or yarn: _npm i_ OR _yarn_
