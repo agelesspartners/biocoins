@@ -73,7 +73,7 @@ function SignUp() {
   return (
     <BasicLayout
       title="BioCoins"
-      description="Revolutionizing longevity therapeutics."
+      description="Bringing Clinical Trials To Life."
       image={curved6}
     >
       <Card>
