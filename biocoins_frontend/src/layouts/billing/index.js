@@ -1,4 +1,4 @@
-// Designed by Sandra Ashipala for 30-01-2022 LongHack 
+// Designed by Sandra Ashipala for 30-01-2022 LongHack
 import Grid from "@mui/material/Grid";
 
 // BioCoins Dashboard React components
@@ -28,14 +28,14 @@ function Billing() {
             <Grid item xs={12} lg={8}>
               <Grid container spacing={3}>
                 <Grid item xs={12} xl={6}>
-                  <MasterCard number={4562112245947852} holder="jack peterson" expires="11/22" />
+                  <MasterCard number={45621122} holder="jack peterson" expires="11/25" />
                 </Grid>
                 <Grid item xs={12} md={6} xl={3}>
                   <DefaultInfoCard
                     icon="account_balance"
-                    title="Current balance"
+                    title="Number of Tokens"
                     description=""
-                    value="$2502"
+                    value="3"
                   />
                 </Grid>
                 <Grid item xs={12}>
