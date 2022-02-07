@@ -29,7 +29,7 @@ A web based platform for researchers, patients, and investors to collectively fu
 
 ## Project Demo
 
-View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
+View the Demo on [YouTube](https://youtu.be/GjElD4iDADw)
 
 ## Screenshots
 
