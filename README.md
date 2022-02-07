@@ -33,8 +33,8 @@ View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
 
 ## Screenshots
 
-![item_5](https://user-images.githubusercontent.com/19821445/152707621-8033ece5-9d23-4ec4-8688-0e98608d2b4f.JPG)
 ![item_3](https://user-images.githubusercontent.com/19821445/152707654-18bcdc5f-022a-48ec-ae01-b94b394a1888.JPG)
+![item_5](https://user-images.githubusercontent.com/19821445/152707621-8033ece5-9d23-4ec4-8688-0e98608d2b4f.JPG)
 ![item_4](https://user-images.githubusercontent.com/19821445/152707627-9bf32bcb-1a98-40e3-b619-e84485201ea4.JPG)
 ![item_8](https://user-images.githubusercontent.com/19821445/152707675-2fc85734-d08a-440a-a94f-9246dd725501.JPG)
 
