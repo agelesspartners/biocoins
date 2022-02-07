@@ -33,10 +33,10 @@ View the Demo on [YouTube](https://youtu.be/cJuWg-Cntas)
 
 ## Screenshots
 
-![dash3](https://user-images.githubusercontent.com/19821445/151686777-5359e879-1b82-4848-ab8d-a86963d7139e.JPG)
-![dash4](https://user-images.githubusercontent.com/19821445/151686779-7e6c401a-b55f-4f35-a70c-95455925fc89.JPG)
-![dash5](https://user-images.githubusercontent.com/19821445/151686782-4c2042ce-1309-4df8-8f03-3f9d126b42d1.JPG)
-![dash7](https://user-images.githubusercontent.com/19821445/151686784-228b9efe-2fb3-4954-8ad0-5642d4385eb2.JPG)
+![item_5](https://user-images.githubusercontent.com/19821445/152707621-8033ece5-9d23-4ec4-8688-0e98608d2b4f.JPG)
+![item_3](https://user-images.githubusercontent.com/19821445/152707654-18bcdc5f-022a-48ec-ae01-b94b394a1888.JPG)
+![item_4](https://user-images.githubusercontent.com/19821445/152707627-9bf32bcb-1a98-40e3-b619-e84485201ea4.JPG)
+![item_8](https://user-images.githubusercontent.com/19821445/152707675-2fc85734-d08a-440a-a94f-9246dd725501.JPG)
 
 ## Technology Stack
 

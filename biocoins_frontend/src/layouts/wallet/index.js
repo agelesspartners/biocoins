@@ -34,7 +34,7 @@ function Wallet() {
                   <DefaultInfoCard
                     icon="account_balance"
                     title="Number of Tokens"
-                    description=""
+                    description="Aquired Tokens"
                     value="3"
                   />
                 </Grid>

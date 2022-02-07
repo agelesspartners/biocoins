@@ -48,9 +48,9 @@ function Overview() {
               title="profile information"
               description="What if therapeutics to slow down the aging process and prevent age-related disease already existed? Recently, in an unprecedented effort, a large-scale study employing advanced machine learning methods analyzed medical records from over 4 million individuals in the European Health Sytem. Hi, I'm Alex a Professor at the MIT School of Bioengineering Sciences, actively contributing to the community of longevity therapeutics through research."
               info={{
-                fullName: "Alex M. Thompson",
+                fullName: "Jupyter M. Thompson",
                 mobile: "(44) 123 1234 123",
-                email: "alexthompson@mail.com",
+                email: "jthompson@mail.com",
                 location: "USA",
               }}
               social={[
